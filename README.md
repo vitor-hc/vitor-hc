@@ -29,7 +29,7 @@
     
   <div>
   <img align="center" alt="BR" height="30" width="100" src="https://img.shields.io/badge/Portugu%C3%AAs_-_Nativo-3DDC84?style=for-the-badge"><br><br>
-  <img align="center" alt="US" height="30" width="100" src="https://img.shields.io/badge/Ingl%C3%AAs_-_Avan%C3%A7ado-a92031?style=for-the-badge">
+    
   </div>
   
  
